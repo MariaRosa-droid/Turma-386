@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcd95ec5-14c7-48f9-976f-ab7a5005abb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nano.save" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRosa/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DRosa/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRosa/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DRosa/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-    </list>
+    <list default="true" id="fcd95ec5-14c7-48f9-976f-ab7a5005abb0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
